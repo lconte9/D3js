@@ -1,0 +1,20 @@
+
+
+#MainBox{
+    
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+ }
+ 
+ #BoxGrafico{
+     margin: 5vw;
+     border : 2px solid green;
+ }
+ 
+ #Pulsante{
+     flex: 1;
+     width: auto;
+ }

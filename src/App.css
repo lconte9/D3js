@@ -1,0 +1,25 @@
+/*
+        PALETTE DI COLORI  blu 34344A      viola scuro 80475E  viola chiro  CC5A71  marroncino  C89B7B  giallo   F0F757
+
+
+*/
+
+
+
+.navBar{
+    height: 10vw;
+    background-color: #34344A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titoloMenu{
+    font-size: large;
+    font-weight: bold;
+    border: 3px solid #C89B7B;
+    color:#C89B7B ;
+    border-radius: 1vw;
+    padding:1vw;
+    margin: 1vw;
+}
